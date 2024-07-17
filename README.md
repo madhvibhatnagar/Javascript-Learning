@@ -9,3 +9,5 @@ node 01_basics/03_conversionOperations.js
 node 01_basics/03_conversionOperations.js
 node 02_basics/01_Arrays.js
 node 02_basics/02_Arrays.js
+node 02_basics/03_objects.js
+node 02_basics/04_objects.js
