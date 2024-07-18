@@ -15,3 +15,4 @@ node 02_basics/04_objects.js
 
 
 node 03_basics/01_functions.js
+node 03_basics/02_scopes.js
