@@ -11,3 +11,7 @@ node 02_basics/01_Arrays.js
 node 02_basics/02_Arrays.js
 node 02_basics/03_objects.js
 node 02_basics/04_objects.js
+
+
+
+node 03_basics/01_functions.js
